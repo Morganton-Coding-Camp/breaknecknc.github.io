@@ -37,3 +37,11 @@ img {
 .col {
   flex-grow: 1;
 }
+
+/* custom styles */
+.profile-pic {
+  border-radius: 50%;
+  margin-left: auto;
+  max-height: 250px;
+  width: auto;
+}
