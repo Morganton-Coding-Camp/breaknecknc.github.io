@@ -102,3 +102,15 @@ iframe {
   color: black;
 }
 
+.meme {
+  background: white;
+  color: black;
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+.meme-text {
+  padding: .5rem 1rem;
+  font-weight: 900;
+}
