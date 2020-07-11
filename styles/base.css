@@ -30,17 +30,6 @@ iframe {
   max-width: 100%;
 }
 
-.banner {
-  background-image: url('../images/background.jpg');
-  background-position: center;
-  min-height: 25vh;
-  padding: 5rem 1rem;
-  text-align: center;
-  font-size: 4rem;
-  font-weight: 900;
-  color: pink;
-}
-
 .content {
   max-width: 1200px;
   margin-left: auto;
@@ -58,6 +47,23 @@ iframe {
 }
 
 /* custom styles */
+.banner {
+  background-image: url('../images/background.jpg');
+  background-position: center;
+  min-height: 25vh;
+  padding: 5rem 1rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 900;
+}
+
+.banner-text {
+  width: auto;
+  margin: auto;
+  background: pink;
+  color: white;
+}
+
 .profile-pic {
   border-radius: 50%;
   display: block;
