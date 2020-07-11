@@ -90,3 +90,12 @@
 .btn:hover {
   box-shadow: 3px 5px #edf060;
 }
+
+.copyright {
+  background: #fad8d6;
+  font-size: .7rem;
+  color: black;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 3rem;
+}
