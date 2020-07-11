@@ -80,3 +80,25 @@ iframe {
   max-height: 250px;
   width: auto;
 }
+
+.favorites {
+  margin: 3rem 0;
+}
+
+.favorites .col {
+  padding: 2rem;
+}
+
+.favorites-power {
+  background: #17bebb;
+}
+
+.favorites-friend {
+  background: #ef476f;
+}
+
+.favorites-talent {
+  background: #edf060;
+  color: black;
+}
+
