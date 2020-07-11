@@ -31,6 +31,8 @@ hr {
   margin-top: 3rem;
   margin-bottom: 3rem;
   opacity: .5;
+  border: none;
+  border-top: 1px solid #fad8d6;
 }
 
 img {
