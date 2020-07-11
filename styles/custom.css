@@ -68,6 +68,7 @@
 }
 
 .btn {
+  display: inline-block;
   background: #665687;
   text-transform: uppercase;
   font-size: .9rem;
