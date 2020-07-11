@@ -30,6 +30,15 @@ iframe {
   max-width: 100%;
 }
 
+.banner {
+  min-height: 25vh;
+  padding: 5rem 1rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 900;
+  color: pink;
+}
+
 .content {
   max-width: 1200px;
   margin-left: auto;
