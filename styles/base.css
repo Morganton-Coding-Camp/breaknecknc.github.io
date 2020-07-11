@@ -58,6 +58,7 @@ iframe {
 }
 
 .banner-text {
+  display: inline-block;
   width: auto;
   margin: auto;
   padding: 2rem;
