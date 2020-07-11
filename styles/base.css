@@ -21,6 +21,12 @@ h1 {
   font-size: 3rem;
 }
 
+hr {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  opacity: .5;
+}
+
 img {
   max-width: 100%;
   height: auto;
