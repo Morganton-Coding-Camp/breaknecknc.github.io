@@ -68,8 +68,9 @@ iframe {
   width: auto;
   margin: auto;
   padding: 2rem;
-  background: pink;
+  background: #17bebb;
   color: white;
+  border: 10px solid #fad8d6;
 }
 
 .profile-pic {
