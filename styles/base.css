@@ -67,10 +67,10 @@ iframe {
   display: inline-block;
   width: auto;
   margin: auto;
-  padding: 2rem;
+  padding: 1rem;
   background: #17bebb;
   color: white;
-  border: 10px solid #fad8d6;
+  border: 50px solid #fad8d6;
 }
 
 .profile-pic {
