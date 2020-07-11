@@ -23,3 +23,8 @@ h6 {
   margin-right: auto;
   padding: 1rem;
 }
+
+.row {
+  display: flex;
+  -webkit-display: flex;
+}
