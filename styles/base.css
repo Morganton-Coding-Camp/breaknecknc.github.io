@@ -32,6 +32,7 @@ iframe {
 
 .banner {
   background-image: url('../images/background.jpg');
+  background-position: center;
   min-height: 25vh;
   padding: 5rem 1rem;
   text-align: center;
