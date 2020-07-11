@@ -41,6 +41,7 @@ img {
 /* custom styles */
 .profile-pic {
   border-radius: 50%;
+  display: block;
   margin-left: auto;
   max-height: 250px;
   width: auto;
