@@ -5,6 +5,7 @@ body {
   color: white;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
+  font-size: 16px;
 }
 
 h1,
@@ -14,4 +15,11 @@ h4,
 h5,
 h6 {
   font-weight: 900;
+}
+
+.content {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem;
 }
